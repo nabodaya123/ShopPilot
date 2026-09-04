@@ -11,16 +11,7 @@ Instead of manually searching, filtering, and comparing products, users can simp
 
 ---
 
-## 🚀 Live Demo
 
-🔗 **Live Website:**  
-Add your deployed website URL here.
-
-Example:
-
-https://shop-pilot-ai.vercel.app
-
----
 
 ## 📂 GitHub Repository
 
@@ -29,7 +20,7 @@ Add your GitHub repository URL here.
 
 Example:
 
-https://github.com/YOUR_USERNAME/ShopPilot-AI
+https://github.com/nabodaya123/ShopPilot
 
 ---
 
